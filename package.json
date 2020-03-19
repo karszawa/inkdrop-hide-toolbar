@@ -2,7 +2,7 @@
   "name": "inkdrop-hide-toolbar",
   "main": "./lib/inkdrop-hide-toolbar",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "Hide toolbar and widen textarea",
   "keywords": [],
   "repository": "https://github.com/karszawa/inkdrop-hide-toolbar",
   "license": "MIT",
