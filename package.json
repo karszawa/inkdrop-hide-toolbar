@@ -1,7 +1,7 @@
 {
   "name": "hide-toolbar",
   "main": "./lib/inkdrop-hide-toolbar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hide toolbar and widen textarea",
   "keywords": [],
   "repository": "https://github.com/karszawa/inkdrop-hide-toolbar",
