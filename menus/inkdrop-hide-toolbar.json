@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle inkdrop-hide-toolbar",
+        "command": "inkdrop-hide-toolbar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "inkdrop-hide-toolbar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "inkdrop-hide-toolbar:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
