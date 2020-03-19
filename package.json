@@ -1,10 +1,10 @@
 {
   "name": "inkdrop-hide-toolbar",
   "main": "./lib/inkdrop-hide-toolbar",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/inkdrop-hide-toolbar",
+  "repository": "https://github.com/karszawa/inkdrop-hide-toolbar",
   "license": "MIT",
   "engines": {
     "inkdrop": "^4.x"
